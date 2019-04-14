@@ -13,8 +13,8 @@ para atender as necessidades da nova estrutura, ou seja, se transferiu de uma fi
 a mesma deverá, após a transferência se comportar como uma pilha.*/
 
 /*
-    Eder Ferreira de Matos
-    0220481813020
+    Brenda da Silva Lorençon
+
 */
 
 typedef struct Aluno{
